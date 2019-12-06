@@ -1,4 +1,4 @@
-#Fri Dec 06 16:24:12 GMT 2019
+#Fri Dec 06 19:48:38 GMT 2019
 base.0=/home/diagnosify/AndroidStudioProjects/mi_card/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
