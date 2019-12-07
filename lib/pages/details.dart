@@ -21,6 +21,7 @@ class _DetailsState extends State<Details> {
   var num = '';
   var mail = '';
   File imageFile;
+  var imgPath = '';
 
   var _pic = 'Select Pic';
 
