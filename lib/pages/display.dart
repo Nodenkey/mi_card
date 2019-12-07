@@ -30,7 +30,7 @@ class Display extends StatelessWidget {
               CircleAvatar(
                 radius: 80,
                 backgroundColor: Colors.grey,
-                backgroundImage: AssetImage('images/me.jpg'),
+                backgroundImage: AssetImage(imageFile.path),
               ),
               Text(
                 name,

@@ -5,6 +5,10 @@ INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/mai
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/bf1af0bdae5a8b8756b3ccca54174928/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/735a5e94fde5d34d1dc09a78829ad8ef/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ffce852fcbbe593a33839b8702ddbb0c/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -24,6 +28,14 @@ INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/deb
 		ADDED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.core:core:1.0.2] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/bf1af0bdae5a8b8756b3ccca54174928/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/bf1af0bdae5a8b8756b3ccca54174928/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/735a5e94fde5d34d1dc09a78829ad8ef/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/735a5e94fde5d34d1dc09a78829ad8ef/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/bf1af0bdae5a8b8756b3ccca54174928/AndroidManifest.xml:22:18-86
 	android:label
 		ADDED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml:11:9-32
 	android:icon
@@ -64,6 +76,14 @@ uses-sdk
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.0.2] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/bf1af0bdae5a8b8756b3ccca54174928/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/bf1af0bdae5a8b8756b3ccca54174928/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/735a5e94fde5d34d1dc09a78829ad8ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/735a5e94fde5d34d1dc09a78829ad8ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ffce852fcbbe593a33839b8702ddbb0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/diagnosify/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ffce852fcbbe593a33839b8702ddbb0c/AndroidManifest.xml:20:5-44
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -76,3 +96,27 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
 		ADDED from /home/diagnosify/AndroidStudioProjects/mi_card/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /home/diagnosify/AndroidStudioProjects/mi_card/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-67
