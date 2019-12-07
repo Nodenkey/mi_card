@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:mi_card/pages/display.dart';
 
+import 'loader.dart';
+
 class Details extends StatefulWidget {
   @override
   _DetailsState createState() => _DetailsState();
@@ -34,6 +36,10 @@ class _DetailsState extends State<Details> {
           MaterialPageRoute(
               builder: (BuildContext context) =>
                   Display(name, job, num, mail, imageFile)));
+      Navigator.push(
+          context,
+          MaterialPageRoute(
+              builder: (BuildContext context) => Loader()));
     }
   }
 
